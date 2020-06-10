@@ -31,7 +31,7 @@ h1{
   color:#66bfbf;
   margin:50px auto 0 auto;
   font-size: 5.625rem;
-  font-family: 'Sacramento';
+  font-family: 'Sacramento',cursive;
 }
 p{
   line-height: 2;
@@ -71,7 +71,7 @@ text-align: left;
 }
 .bottom-cloud{
     position: absolute;
-    left: 250px;
+    left: 350px;
     bottom: 300px;
 }
 .top-cloud{
